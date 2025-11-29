@@ -24,9 +24,6 @@ print(values)
 
 items = contact_info.items()
 print(items)
-
-
-
 contact_information = {
 
     "Alice" : {
@@ -40,7 +37,6 @@ contact_information = {
         "email": "bob@gmail.com",
         "birthday": "27/11/2005"
     }
-
 }
 
 print(contact_information)

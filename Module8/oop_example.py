@@ -16,6 +16,7 @@ class Rectangle:
 # Create an instance of Rectangle with length 2 and width 5
 my_rectangle = Rectangle(2, 5)
 
+
 # Calculate the area and perimeter of the rectangle
 area = my_rectangle.calculate_area()
 perimeter = my_rectangle.calculate_perimeter()
